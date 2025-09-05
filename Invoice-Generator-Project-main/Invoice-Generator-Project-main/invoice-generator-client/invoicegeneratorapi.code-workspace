@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../invoicegeneratorapi"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
