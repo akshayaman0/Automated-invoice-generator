@@ -40,4 +40,4 @@ If you'd like to edit to the QuickInvoice project, please follow these steps:
 
 
 ## Contact
-For any inquiries, please reach out to [Suyash Baoney](mailto:amankis001@gmail.com).
+For any inquiries, please reach out to [Aman](mailto:amankis001@gmail.com).
